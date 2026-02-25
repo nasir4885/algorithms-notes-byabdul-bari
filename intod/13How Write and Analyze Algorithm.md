@@ -1,0 +1,23 @@
+lesson 1.3 How Write and Analyze Algorithm
+
+how to write an algorithm?
+
+1. understand the problem.
+2. design the algorithm.
+3. write the algorithm.
+4. analyze the algorithm.
+5. test the algorithm.
+
+
+how to analyze an algorithm?
+what is the criteria for analyzing an algorithm?
+these are 5 citeria 
+
+1. time complexity : it is how much time an algorithm takes to run.
+2. space complexity : it is how much memory space an algorithm takes to run.
+3. how much data is going to be transfered .
+4. power : how much power it is going to consume.
+5. CPU usage : how much CPU it is going to use.
+
+
+
